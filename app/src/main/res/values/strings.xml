@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TesteGit</string>
+    <string name="bt_nome1">Otavio</string>
+    <string name="bt_nome2">Gomes</string>
+    <string name="bt_nome3">Temporim</string>
+    <string name="bt_nome4">Menezes</string>
+    <string name="txt_nome">Este é meu nome compelto!</string>
+</resources>
