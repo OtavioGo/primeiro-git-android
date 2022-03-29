@@ -5,4 +5,6 @@
     <string name="bt_nome3">Temporim</string>
     <string name="bt_nome4">Menezes</string>
     <string name="txt_nome">Este é meu nome compelto!</string>
+    <string name="edt_nome">Seu nome:</string>
+    <string name="edt_sobrenome">Seu sobrenome:</string>
 </resources>
